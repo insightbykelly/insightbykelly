@@ -27,4 +27,4 @@ Analyzed return patterns to identify key drivers and provide actionable insights
 ---
 
 ## 🚀 About Me
-I’m currently building my skills in data analysis and visualization, with a focus on solving real-world business problems through data.
+Business Intelligence Analyst in training with experience in data analysis, visualization, and dashboard development. Passionate about turning data into actionable insights using SQL, Tableau, Power BI, and Google Sheets.
